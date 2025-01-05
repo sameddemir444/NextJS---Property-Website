@@ -1,3 +1,7 @@
 export default function Homepage() {
-  return <div>Ana Sayfa</div>;
+  return (
+    <div>
+      <h1>Homepage</h1>
+    </div>
+  );
 }
