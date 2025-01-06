@@ -1,7 +1,11 @@
+import Hero from "@/components/Hero";
+import InfoBoxes from "@/components/InfoBoxes";
+
 export default function Homepage() {
   return (
     <div>
-      <h1>Homepage</h1>
+      <Hero />
+      <InfoBoxes />
     </div>
   );
 }
