@@ -13,7 +13,7 @@ const InfoBoxes = () => {
             </p>
             <Link
               href="/properties"
-              className="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700"
+              className="inline-block bg-black text-white rounded-lg px-4 py-2 hover:bg-gray-700 duration-200"
             >
               Browse Properties
             </Link>
@@ -26,7 +26,7 @@ const InfoBoxes = () => {
             </p>
             <Link
               href="/properties/add"
-              className="inline-block bg-blue-600 text-white rounded-lg px-4 py-2 hover:bg-blue-500"
+              className="inline-block bg-blue-600 text-white rounded-lg px-4 py-2 hover:bg-blue-500 duration-200"
             >
               Add Property
             </Link>
